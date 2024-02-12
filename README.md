@@ -1,7 +1,7 @@
 # Codeigniter4_Login_PHP8_Bootsrap5_Example
 Sample Example of Codeigniter4 Login & validation with PHP 8 and Bootstrap 5
 
-Steps to run
+* Steps to run *
 
 I have Used Windows 10 OS with XAMPP, Composer & Visual Studio Editor
 
@@ -14,6 +14,7 @@ Step 2 : In php.ini file enable extension=intl & extension=zip
 Step 3 : Open CMD and type composer
 
 Step 4 : On CMD go to project path in my case it is ( C:\xampp\htdocs\assignment> ) and run 2 commands one after another
+
 	I . composer create-project codeigniter4/appstarter assignment
  
 	II. composer require twbs/bootstrap:5.3.2
