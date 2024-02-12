@@ -9,12 +9,13 @@ I perform following steps to complete this assignment
 
 Step 1 : Download exe & Install XAMPP & Composer and keep MySQL & XAMPP running
 
-Step 2 : Open CMD and type composer
+Step 2 : In php.ini file enable extension=intl & extension=zip
 
-Step 3 : In php.ini file enable extension=intl & extension=zip
+Step 3 : Open CMD and type composer
 
 Step 4 : On CMD go to project path in my case it is ( C:\xampp\htdocs\assignment> ) and run 2 commands one after another
 	I . composer create-project codeigniter4/appstarter assignment
+ 
 	II. composer require twbs/bootstrap:5.3.2
  
 Step 5 : Now open terminal in Visual studio and to to path C:\xampp\htdocs\assignment> and run command
