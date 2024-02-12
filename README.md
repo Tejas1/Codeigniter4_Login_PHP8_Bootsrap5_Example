@@ -8,11 +8,15 @@ I have Used Windows 10 OS with XAMPP, Composer & Visual Studio Editor
 I perform following steps to complete this assignment
 
 Step 1 : Download exe & Install XAMPP & Composer and keep MySQL & XAMPP running
+
 Step 2 : Open CMD and type composer
+
 Step 3 : In php.ini file enable extension=intl & extension=zip
+
 Step 4 : On CMD go to project path in my case it is ( C:\xampp\htdocs\assignment> ) and run 2 commands one after another
 	I . composer create-project codeigniter4/appstarter assignment
 	II. composer require twbs/bootstrap:5.3.2
+ 
 Step 5 : Now open terminal in Visual studio and to to path C:\xampp\htdocs\assignment> and run command
 	php spark serve --port 1010 (start project with new port)
 
